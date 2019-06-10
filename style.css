@@ -1,0 +1,275 @@
+.container
+{
+    font-family: 'Quattrocento', serif;
+    width: 80%;
+    margin: 0 auto;
+    background: rgba(255, 171, 171, 0.294); 
+    background: -webkit-linear-gradient(left top,  #FFDAAB, #FFABAB, #DDFFAB, #ABE4FF, #D9ABFF);
+    background: -o-linear-gradient(bottom right,  #FFDAAB, #FFABAB, #DDFFAB, #ABE4FF, #D9ABFF);
+    background: -moz-linear-gradient(bottom right, #FFDAAB, #FFABAB, #DDFFAB, #ABE4FF, #D9ABFF);;
+    background: linear-gradient(to bottom right, #FFDAAB, #FFABAB, #DDFFAB, #ABE4FF, #D9ABFF); 
+    border: 5px double #D9ABFF;
+}
+
+.colimg
+{
+    margin: 0;
+    padding: 0;
+    background: none;
+    opacity: 0.8;
+}
+
+img
+{
+    width: 100%;
+    height: auto;
+    border: 5px double #FFABAB;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2, h3, h4
+{
+    font-family: 'Indie Flower', cursive;
+}
+
+.col-md-3, .col-md-8
+{
+    background: white;
+    margin-right: 1vw;
+    margin-left: 1vw;
+    margin-top: 0.5vw;
+}
+
+
+.colname
+{
+    border: 5px double #FFDAAB;
+}
+
+.colname h1
+{
+    color: #D9ABFF;
+    text-shadow: -3px 0px 0px rgb(27, 36, 41);
+    font-size: 3.5rem;
+}
+
+.colname h2
+{
+    color: #ABE4FF;
+    text-shadow: 1px 1px 1px rgba(28, 38, 42, 0.637);
+}
+
+.colname span
+{
+    font-weight: bold;
+}
+
+
+.colinfos
+{
+    border: 5px double #DDFFAB;
+    font-size: 0.9rem;
+}
+
+.contacts h2
+{
+    color: #DDFFAB;
+    text-shadow: 1px 1px 1px rgba(39, 46, 30, 0.637);
+}
+
+.contacts span
+{
+    font-size: 0.9rem;
+}
+
+.socmed h2
+{
+    color: #FFDAAB;
+    text-shadow: 1px 1px 1px rgba(56, 48, 37, 0.637);
+}
+
+.age h2
+{
+    color: #FFABAB;
+    text-shadow: 1px 1px 1px rgba(37, 25, 25, 0.637);
+}
+
+.langges h2
+{
+    color: #FFDAAB;
+    text-shadow: 1px 1px 1px rgba(56, 48, 37, 0.637);
+}
+
+.langges span
+{
+    font-size: 1.2rem;
+}
+
+.colqualities
+{
+    border: 5px double #ABE4FF;
+    padding: 0;
+    height: 100%;
+}
+
+.colqualities h2
+{
+    color: #DDFFAB;
+    text-shadow: 1px 1px 1px rgba(39, 46, 30, 0.637);
+}
+
+.curi
+{
+    background: #D9ABFF;
+    color: #ABE4FF;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+    margin: 0;
+}
+
+.dyna
+{
+    background: #ABE4FF;
+    color: #DDFFAB;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+}
+
+.crea
+{
+    background: #DDFFAB;
+    color: #FFDAAB;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+}
+
+.inve
+{
+    background: #FFDAAB;
+    color: #FFABAB;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+}
+
+.humo
+{
+    background: #FFABAB;
+    color: #FFDAAB;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+}
+
+.auto
+{
+    background: #FFDAAB;
+    color: #DDFFAB;
+    font-size: 1.5rem;
+    text-shadow: 1px 1px 1px black;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    padding-top: 0.5vw;
+}
+
+.colskills
+{
+    border: 5px double #ABE4FF;
+    padding-top: 1vw;
+    height: auto;
+}
+
+
+.skilltech h2
+{
+    color: #FFABAB;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(37, 25, 25, 0.637);
+}
+
+.skillsoft h2
+{
+    color: #FFDAAB;
+    font-size: 2rem;
+    text-shadow: 1px 1px 1px rgba(56, 48, 37, 0.637);
+}
+
+.colschool
+{
+    border: 5px double #DDFFAB;
+    text-align: justify;
+}
+
+.colschool h2
+{
+    color: #DDFFAB;
+    text-shadow: 1px 1px 1px rgba(39, 46, 30, 0.637);
+    font-size: 2rem;
+}
+
+.colschool span
+{
+    font-size: 1.2rem;
+}
+
+.colwork
+{
+    border: 5px double #FFABAB;
+}
+
+.colwork em
+{
+    font-size: 0.9rem;
+}
+
+.expro
+{
+    color: #ABE4FF;
+    text-shadow: 1px 1px 1px rgba(28, 38, 42, 0.637);
+    font-size: 2rem;
+}
+
+.bene
+{
+    color: #D9ABFF;
+    text-shadow: 1px 1px 1px rgba(27, 36, 41, 0.637);
+    font-size: 2rem;
+}
+
+.colpassions
+{
+    border: 5px double #FFDAAB;
+    font-size: 0.9rem;
+}
+
+.colpassions h2
+{
+    color: #ABE4FF;
+    text-shadow: 1px 1px 1px rgba(28, 38, 42, 0.637);
+    font-size: 2rem;
+}
+
+.colpassions em
+{
+    font-size: 0.8rem;
+}
